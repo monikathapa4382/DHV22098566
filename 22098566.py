@@ -60,5 +60,4 @@ axes[1, 1].set_title('Distribution of Shots on Target by Season')
 
 fig.suptitle('Football Matches Analysis - Infographics', fontsize=16)
 fig.tight_layout(rect=[0, 0.03, 1, 0.95])
-plt.savefig('2324VS0011.png', dpi=300)
-
+plt.show()
